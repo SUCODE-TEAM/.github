@@ -1,63 +1,46 @@
 <div align="center">
 
-# ☠️ SYSTEM BREACH: CODINGERS UNDERGROUND ⚡
+# Codingers
 
-<!-- Terminal Typing Animation -->
+<!-- Typing Animation Minimalist -->
 <a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Initializing+Exploit+Payload...;Access+Granted+%3A+Welcome+to+Root;We+Break+Code%2C+We+Build+Chaos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+scalable+systems+%26+modern+web+solutions.;Fullstack+Development+%7C+Open+Source+%7C+High+Performance." alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <code>[ root@terminal:~# echo "Breaking limits, compiling freedom, securing the web." ]</code>
+  A collaborative organization focused on building modern, performant, and scalable applications.
 </p>
 
-<!-- Cyber / Hacker Badges -->
+<!-- Tech Stack Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/EXPLOITS-ACTIVE-00FF41?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=0D1117" alt="Exploits" />
-  <img src="https://img.shields.io/badge/SECURITY-HARDENED-00FF41?style=for-the-badge&logo=kalilinux&logoColor=00FF41&labelColor=0D1117" alt="Security" />
-  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00FF41?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=0D1117" alt="Network" />
-  <img src="https://img.shields.io/badge/SYSADMIN-ROOT-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117" alt="Root" />
-  <img src="https://img.shields.io/badge/LICENSE-UNLICENSE-00FF41?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=0D1117" alt="License" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_19-23272F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<!-- Cyber Terminal Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:003B00&height=160&section=header&text=%3C%2F%3E%20CYBER%20DEVS%20MAINFRAME&fontSize=34&fontColor=00FF41&fontAlignY=55&animation=fadeIn" width="100%" />
-
-<p align="center">
-  <code>// ACCESS_INTERFACE:</code>
-  <br />
-  <a href="#id"><b>[ ID: INTI_SISTEM ]</b></a> • 
-  <a href="#en"><b>[ EN: MAINFRAME ]</b></a> • 
-  <a href="#docs"><b>[ DOCS: PROTOKOL ]</b></a>
-</p>
+<!-- Minimal Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=Codingers%20Ecosystem&fontSize=30&fontColor=ffffff&fontAlignY=55" width="100%" />
 
 </div>
 
 ---
 
-### 💻 Tentang Organisasi
-**Codingers Underground** adalah sindikat developer, penetration tester, dan security researcher yang berfokus pada eksplorasi celah keamanan, rekayasa balik (reverse engineering), dan pengembangan perangkat lunak tangguh tanpa batasan korporat.
+### About
+**Codingers** is an engineering collective dedicated to building reliable open-source projects, high-performance APIs, and clean frontend architectures. We prioritize maintainability, developer experience (DX), and production-grade code quality.
 
-* 🟢 **Operasi**: Otomatisasi script exploit, pentesting tools, arsitektur backend terdesentralisasi, dan sistem berkecepatan tinggi.
-* 🛡️ **Fokus Riset**: Web Application Security, Network Sniffing, Cryptography, dan OSINT.
-* ⚡ **Protokol**: Kode bersih, payload presisi, dan performa tingkat rendah (low-level).
-
----
-
-### 🏴 Protokol Kontribusi (Infiltrasi PR)
-1. **Fork** payload / target repository (`Ctrl + Shift + F`).
-2. Isolasi node development (`git checkout -b exploit/fitur-baru`).
-3. Eksekusi commit kode (`git commit -m 'feat: bypass payload limit'`).
-4. Broadcast perubahan ke server remote (`git push origin exploit/fitur-baru`).
-5. Kirim sinyal **Pull Request** untuk code audit.
+* ⚡ **Frontend**: Next.js (App Router), React, SvelteKit, Tailwind CSS.
+* 🛠️ **Backend & Systems**: Go, Rust, Node.js/Bun, Hono, Fastify.
+* 🗄️ **Database & Infra**: PostgreSQL, Redis, Supabase, Docker, Cloudflare Workers.
 
 ---
 
-### 📡 Enkripsi & Jalur Komunikasi
-* 📟 [Channel Komunikasi Anonim](https://github.com)
-* 📜 [Pusat Dokumentasi Protokol](https://github.com)
-* 🌐 [Gateway Server & Source](https://github.com)
-
-<div align="center">
-  <code>[ ACCESS LOG TERMINATED // 0xDEADBEEF ]</code>
-</div>
+### Contribution Workflow
+1. **Fork** the repository and clone it locally.
+2. Create a standardized branch:
+   ```bash
+   git checkout -b feat/your-feature-name
