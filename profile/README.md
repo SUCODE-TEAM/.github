@@ -1,64 +1,63 @@
 <div align="center">
 
-# 🌈 Selamat Datang di Gay Codingers ✨
+# ☠️ SYSTEM BREACH: CODINGERS UNDERGROUND ⚡
 
-<!-- Typing Animation Rainbow Effect -->
-<a href="https://github.com/gay-codingers">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF007F&multiline=true&repeat=true&width=650&height=80&lines=Code+with+Pride%2C+Build+with+Passion;Where+Creativity+Meets+Diversity;Selamat+Datang+di+Komunitas+Gay+Codingers!" alt="Typing SVG" />
+<!-- Terminal Typing Animation -->
+<a href="https://github.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Initializing+Exploit+Payload...;Access+Granted+%3A+Welcome+to+Root;We+Break+Code%2C+We+Build+Chaos." alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Membangun masa depan teknologi yang inklusif, kreatif, dan penuh warna! 🚀</b>
+  <code>[ root@terminal:~# echo "Breaking limits, compiling freedom, securing the web." ]</code>
 </p>
 
-<!-- Rainbow Badges -->
+<!-- Cyber / Hacker Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-Welcome-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome" />
-  <img src="https://img.shields.io/badge/Community-Active-FF7F00?style=for-the-badge&logo=discord&logoColor=white" alt="Community" />
-  <img src="https://img.shields.io/badge/Open_Source-100%25-FFFF00?style=for-the-badge&labelColor=333333&color=FFD700" alt="Open Source" />
-  <img src="https://img.shields.io/badge/License-MIT-00FF00?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/badge/Tech-Fullstack-0000FF?style=for-the-badge&logo=react&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/Pride-Diverse-8B00FF?style=for-the-badge&logo=love&logoColor=white" alt="Pride" />
+  <img src="https://img.shields.io/badge/EXPLOITS-ACTIVE-00FF41?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=0D1117" alt="Exploits" />
+  <img src="https://img.shields.io/badge/SECURITY-HARDENED-00FF41?style=for-the-badge&logo=kalilinux&logoColor=00FF41&labelColor=0D1117" alt="Security" />
+  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00FF41?style=for-the-badge&logo=wireshark&logoColor=00FF41&labelColor=0D1117" alt="Network" />
+  <img src="https://img.shields.io/badge/SYSADMIN-ROOT-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117" alt="Root" />
+  <img src="https://img.shields.io/badge/LICENSE-UNLICENSE-00FF41?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=0D1117" alt="License" />
 </p>
 
-<!-- Rainbow Header Banner / Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6&height=180&section=header&text=Gay%20Codingers%20Hub&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- Cyber Terminal Capsule Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:003B00&height=160&section=header&text=%3C%2F%3E%20CYBER%20DEVS%20MAINFRAME&fontSize=34&fontColor=00FF41&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <b>🌐 Bahasa / Languages:</b>
+  <code>// ACCESS_INTERFACE:</code>
   <br />
-  <a href="#id">Bahasa Indonesia</a> • 
-  <a href="#en">English</a> • 
-  <a href="#docs">Documentation</a>
+  <a href="#id"><b>[ ID: INTI_SISTEM ]</b></a> • 
+  <a href="#en"><b>[ EN: MAINFRAME ]</b></a> • 
+  <a href="#docs"><b>[ DOCS: PROTOKOL ]</b></a>
 </p>
 
 </div>
 
 ---
 
-### 🦄 Tentang Organisasi
-**Gay Codingers** adalah ruang kolaborasi terbuka untuk para developer, kreator, dan tech enthusiasts dari berbagai latar belakang untuk belajar, berkarya, dan membangun proyek open-source bersama tanpa batas.
+### 💻 Tentang Organisasi
+**Codingers Underground** adalah sindikat developer, penetration tester, dan security researcher yang berfokus pada eksplorasi celah keamanan, rekayasa balik (reverse engineering), dan pengembangan perangkat lunak tangguh tanpa batasan korporat.
 
-* 💡 **Misi**: Menghadirkan ekosistem coding yang ramah, suportif, dan inovatif.
-* 🛠️ **Fokus**: Web Development, Mobile Apps, Cloud/DevOps, UI/UX, dan AI integrations.
-* 🤝 **Kolaborasi**: Menyambut siapa saja yang ingin berkontribusi lewat pull request, diskusi issue, atau sharing project.
-
----
-
-### 🚀 Cara Berkontribusi
-1. **Fork** repository yang ingin kamu bantu.
-2. Buat branch fitur baru (`git checkout -b fitur-keren`).
-3. Commit perubahanmu (`git commit -m 'feat: nambah fitur keren'`).
-4. Push ke branch kamu (`git push origin fitur-keren`).
-5. Buka **Pull Request** dan diskusikan dengan tim!
+* 🟢 **Operasi**: Otomatisasi script exploit, pentesting tools, arsitektur backend terdesentralisasi, dan sistem berkecepatan tinggi.
+* 🛡️ **Fokus Riset**: Web Application Security, Network Sniffing, Cryptography, dan OSINT.
+* ⚡ **Protokol**: Kode bersih, payload presisi, dan performa tingkat rendah (low-level).
 
 ---
 
-### 🌐 Social & Resources
-* 💬 [Diskusi Komunitas & Forum](https://github.com/orgs)
-* 📖 [Panduan & Dokumentasi](https://github.com)
-* 🌐 [Website Resmi](https://github.com)
+### 🏴 Protokol Kontribusi (Infiltrasi PR)
+1. **Fork** payload / target repository (`Ctrl + Shift + F`).
+2. Isolasi node development (`git checkout -b exploit/fitur-baru`).
+3. Eksekusi commit kode (`git commit -m 'feat: bypass payload limit'`).
+4. Broadcast perubahan ke server remote (`git push origin exploit/fitur-baru`).
+5. Kirim sinyal **Pull Request** untuk code audit.
+
+---
+
+### 📡 Enkripsi & Jalur Komunikasi
+* 📟 [Channel Komunikasi Anonim](https://github.com)
+* 📜 [Pusat Dokumentasi Protokol](https://github.com)
+* 🌐 [Gateway Server & Source](https://github.com)
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ dan semangat kolaborasi oleh tim <b>Gay Codingers</b></sub>
+  <code>[ ACCESS LOG TERMINATED // 0xDEADBEEF ]</code>
 </div>
