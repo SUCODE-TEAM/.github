@@ -9,7 +9,7 @@
 
 <!-- Marvel Thematic Typing Animation -->
 <a href="https://github.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=26&pause=1000&color=E62429&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=I+am+Iron+Man...;Avengers,+Assemble!;Whatever+It+Takes.;We+Have+A+Hulk.;Architecting+The+Multiverse+of+Madness." alt="MCU Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=26&pause=1000&color=E62429&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Marvel+Coding+Universe...;Avengers,+Assemble!;Whatever+It+Takes.;We+Have+A+Hulk.;Architecting+The+Multiverse+of+Madness." alt="MCU Typing SVG" />
 </a>
 
 <p align="center">
