@@ -3,7 +3,7 @@
 # 🛡️ MARVEL CODING UNIVERSE (MCU) 🛡️
 
 <!-- Epic Marvel Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:8B0000,100:111111&height=180&section=header&text=EARTH'S%20MIGHTIEST%20DEVELOPERS&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Code%20Beyond%20The%20Multiverse&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOFucvWEDbo6kyS02_QDslmucqOzU_tRtasr77AXKjFxnLVbfQUtx-A8&s=10" width="100%" />
 
 <br/>
 
