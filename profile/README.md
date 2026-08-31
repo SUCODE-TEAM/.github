@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🔥 TOP ANIMATED HERO HEADER CAPSULE 🔥 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,42&height=230&section=header&text=%E2%9A%A1%20MUHAMMAD%20YASIN%20%E2%9A%A1&fontSize=42&fontAlignY=38&animation=twinkle&fontColor=00F0FF" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,42&height=230&section=header&text=%E2%9A%A1%20MALFURRA%20%E2%9A%A1&fontSize=44&fontAlignY=38&animation=twinkle&fontColor=00F0FF" width="100%" alt="Header Banner" />
 
   <!-- 🚀 DYNAMIC NEON TYPING SVG BANNER 🚀 -->
   <a href="#">
@@ -41,23 +41,23 @@
       <br/>
       <p>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="22" height="22" />
-        <b><code>const OPERATOR = 'Muhammad Yasin';</code></b>
+        <b><code>const OPERATOR = 'MALFURRA';</code></b>
       </p>
       <p>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" height="22" />
-        <b><code>CURRENT_FOCUS: ['Cloud Scalability', 'Ultra Modern Web Architecture', 'GenAI Systems']</code></b>
+        <b><code>CURRENT_FOCUS: ['High-Performance Systems', 'Ultra Modern Web Architecture', 'Autonomous AI']</code></b>
       </p>
       <p>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="22" height="22" />
-        <b><code>MISSION: 'Membangun ekosistem digital performa tinggi dengan estetika visual futuristik.'</code></b>
+        <b><code>MISSION: 'Membangun ekosistem digital performa tinggi dengan estetika visual futuristik tanpa batas.'</code></b>
       </p>
       <p>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" />
-        <b><code>CODE_PHILOSOPHY: 'Refactor relentlessly, innovate continuously, deliver perfection.'</code></b>
+        <b><code>CODE_PHILOSOPHY: 'Refactor relentlessly, innovate continuously, deliver absolute perfection.'</code></b>
       </p>
       <p>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="22" height="22" />
-        <b><code>COORDINATES: 'Indonesia // Earth Node 01'</code></b>
+        <b><code>NEURAL_NODE: '0xMALFURRA // GLOBAL GRID'</code></b>
       </p>
     </td>
   </tr>
@@ -194,18 +194,31 @@
 
 ---
 
-<!-- 🎧 SECTION 6: AUDIO FREQUENCY & CURRENT VIBES 🎧 -->
+<!-- 🎧 SECTION 6: AUDIO FREQUENCY & CYBER LOUNGE 🎧 -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=7928CA&center=true&vCenter=true&width=550&height=50&lines=%E3%80%8E+%E2%9C%A6+AUDIO+FREQ+%2F%2F+CYBER+LOUNGE+%E2%9C%A6+%E3%80%8F" alt="Audio Vibes Header" />
   <br/><br/>
 
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=spotify&cover_image=true&foreground=true&theme=cyberpunk" alt="Spotify Cyber Stream" />
+  <!-- 🎛️ CYBER SYNTHWAVE / SPOTIFY PLAYER SUITE 🎛️ -->
+  <p align="center">
+    <a href="https://open.spotify.com" target="_blank">
+      <img src="https://img.shields.io/badge/SPOTIFY-NOW%20STREAMING-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="Spotify Streaming" />
+    </a>
+    <img src="https://img.shields.io/badge/VIBE-CYBERPUNK%20%2F%2F%20SYNTHWAVE-7928CA?style=for-the-badge&logo=deezer&logoColor=white&labelColor=0D1117" alt="Genre" />
+    <img src="https://img.shields.io/badge/FREQUENCY-432Hz%20NEURAL%20FLOW-00F0FF?style=for-the-badge&logo=soundcharts&logoColor=white&labelColor=0D1117" alt="Frequency" />
+  </p>
+
+  <br/>
+
+  <!-- ANIMATED RETRO SYNTHWAVE CASSETTE / CYBER DECK -->
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-be61-4627d092b303.gif" width="460" style="border-radius: 14px; border: 2px solid #7928CA;" alt="Cyber Synthwave Visualizer" />
   </a>
 
   <br/><br/>
-  <!-- ANIMATED SOUNDWAVE VISUALIZER -->
-  <img src="https://user-images.githubusercontent.com/64932064/162817293-e40562e8-5b4d-44ba-b2c3-9878dc7e8685.gif" width="60%" height="32" alt="Soundwave Visualizer" />
+
+  <!-- DYNAMIC PULSING SOUNDWAVE EQUALIZER -->
+  <img src="https://user-images.githubusercontent.com/64932064/162817293-e40562e8-5b4d-44ba-b2c3-9878dc7e8685.gif" width="65%" height="34" alt="Soundwave Visualizer" />
 </div>
 
 <br/>
