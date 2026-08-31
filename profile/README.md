@@ -203,14 +203,14 @@
   <tr>
     <td width="50%" align="left" style="padding: 14px;">
       <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="22" height="22" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="22" height="22" />
         <b><code>03. ASGARDIAN INFRASTRUCTURE (SCALABILITY)</code></b>
       </p>
       <p><i>Microservices & containerized deployment Kubernetes yang siap menghadapi beban traffic masif skala Thanos.</i></p>
     </td>
     <td width="50%" align="left" style="padding: 14px;">
       <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="22" height="22" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="22" height="22" />
         <b><code>04. MULTIVERSE ROUTING (ARCHITECTURE)</code></b>
       </p>
       <p><i>Pengaturan state dan routing yang seamless melintasi berbagai dimensi aplikasi (SPA/MPA) bagaikan portal Doctor Strange.</i></p>
@@ -219,7 +219,7 @@
   <tr>
     <td colspan="2" align="left" style="padding: 14px;">
       <p>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="22" height="22" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" height="22" />
         <b><code>05. STARK INDUSTRIES ANALYTICS (MONITORING)</code></b>
       </p>
       <p><i>Pemantauan performa real-time, zero-downtime health telemetry, dan log error management setajam mata Hawkeye.</i></p>
@@ -345,7 +345,7 @@
       <sub>Commit pesan J.A.R.V.I.S:<br/><code>git commit -m "feat: arc reactor"</code></sub>
     </td>
     <td width="25%" align="center" style="padding: 12px;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="36" height="36" /><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="36" height="36" /><br/>
       <b><code>STEP 04: BACKUP (PR)</code></b><br/>
       <sub>Push & buka Pull Request ke Avengers Tower.</sub>
     </td>
