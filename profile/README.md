@@ -12,7 +12,7 @@
 
   <!-- 🚀 DYNAMIC MARVEL THEMATIC TYPING SVG 🚀 -->
   <a href="https://github.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=24&duration=3000&pause=1000&color=E62429&background=0D111700&center=true&vCenter=true&multiline=true&width=750&height=110&lines=%E2%9A%A1+MARVEL+CODING+UNIVERSE+%2F%2F+AVENGERS+ASSEMBLE!;%F0%9F%9B%A1%EF%B8%8F+WITH+GREAT+POWER+COMES+GREAT+SCALABLE+ARCHITECTURE;%F0%9F%92%8E+HARNESSING+THE+6+INFINITY+STONES+OF+CODE;%F0%9F%94%AE+ARCHITECTING+THE+MULTIVERSE+OF+MADNESS;%E2%9C%A8+WHATEVER+IT+TAKES+%E2%80%A2+BUILT+WITH+ARC+REACTOR+TECH" alt="MCU Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=24&duration=3000&pause=1000&color=E62429&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%E2%9A%A1+MARVEL+CODING+UNIVERSE+%2F%2F+AVENGERS+ASSEMBLE!;%F0%9F%9B%A1%EF%B8%8F+WITH+GREAT+POWER+COMES+GREAT+SCALABLE+ARCHITECTURE;%F0%9F%92%8E+HARNESSING+THE+6+INFINITY+STONES+OF+CODE;%F0%9F%94%AE+ARCHITECTING+THE+MULTIVERSE+OF+MADNESS;%E2%9C%A8+WHATEVER+IT+TAKES+%E2%80%A2+BUILT+WITH+ARC+REACTOR+TECH" alt="MCU Typing SVG" />
   </a>
 
   <br/>
@@ -39,7 +39,7 @@
 
 <!-- 💎 SECTION 1: THE INFINITY STONES // TECH ARSENAL 💎 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+THE+INFINITY+STONES+%2F%2F+TECH+ARSENAL+%E2%9C%A6+%E3%80%8F" alt="Infinity Stones Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+THE+INFINITY+STONES+%2F%2F+TECH+ARSENAL+%E2%9C%A6+%E3%80%8F" alt="Infinity Stones Header" />
   
   <p align="center">
     <i>Setiap teknologi adalah <b>Infinity Stone</b> yang memberikan kekuatan absolut pada sistem yang kami bangun di Multiverse ini.</i>
@@ -174,7 +174,7 @@
 
 <!-- 📜 SECTION 2: CORE DIRECTIVES // S.H.I.E.L.D PROTOCOL 📜 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+CORE+DIRECTIVES+%2F%2F+S.H.I.E.L.D+PROTOCOL+%E2%9C%A6+%E3%80%8F" alt="Directives Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+CORE+DIRECTIVES+%2F%2F+S.H.I.E.L.D+PROTOCOL+%E2%9C%A6+%E3%80%8F" alt="Directives Header" />
   
   <p align="center">
     <b>Marvel Coding Universe</b> adalah kolektif developer elit (<i>The Avengers</i>) yang merancang arsitektur aplikasi tangguh, modular, dan berstandar industri tingkat vibranium.
@@ -237,14 +237,14 @@
 
 <!-- 📊 SECTION 3: STARK TELEMETRY & MULTIVERSE STATS 📊 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+STARK+INDUSTRIES+%2F%2F+TELEMETRY+%E2%9C%A6+%E3%80%8F" alt="Telemetry Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+STARK+INDUSTRIES+%2F%2F+TELEMETRY+%E2%9C%A6+%E3%80%8F" alt="Telemetry Header" />
   <br/><br/>
 
   <!-- DYNAMIC ANIMATED CARDS (MARVEL CINEMATIC THEME) -->
   <table align="center" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=malfurra&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=E62429&icon_color=F0B232&text_color=FFFFFF&bg_color=0D1117&border_color=E62429&border_radius=12" width="100%" alt="MCU Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=malfurra&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&title_color=E62429&icon_color=F0B232&text_color=FFFFFF&bg_color=0D1117&border_color=E62429&border_radius=12" width="100%" alt="MCU Stats" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=malfurra&theme=radical&hide_border=false&background=0D1117&border=F0B232&fire=E62429&ring=F0B232&currStreakNum=F0B232&sideNums=FFFFFF&sideLabels=E62429&dates=8B949E&border_radius=12" width="100%" alt="Streak Stats" />
@@ -253,11 +253,11 @@
     <tr>
       <td align="center" width="50%">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malfurra&layout=compact&theme=radical&hide_border=false&title_color=E62429&text_color=FFFFFF&bg_color=0D1117&border_color=F0B232&border_radius=12" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malfurra&layout=compact&theme=radical&hide_border=false&title_color=E62429&text_color=FFFFFF&bg_color=0D1117&border_color=F0B232&border_radius=12" width="100%" alt="Top Languages" />
       </td>
       <td align="center" width="50%">
         <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=malfurra&theme=tokyo-night&bg_color=0D1117&color=E62429&line=F0B232&point=00F0FF&area=true&hide_border=false&border_color=E62429&border_radius=12" width="100%" alt="Activity Graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malfurra&theme=radical" width="100%" alt="Repos Per Language" />
       </td>
     </tr>
   </table>
@@ -271,14 +271,21 @@
 
 ---
 
-<!-- 🏆 SECTION 4: AVENGERS TROPHY VAULT 🏆 -->
+<!-- 🏆 SECTION 4: AVENGERS MULTIVERSE IMPACT & ACTIVITY 🏆 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+AVENGERS+VAULT+%2F%2F+TROPHIES+%E2%9C%A6+%E3%80%8F" alt="Trophy Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+AVENGERS+VAULT+%2F%2F+MULTIVERSE+IMPACT+%E2%9C%A6+%E3%80%8F" alt="Impact Header" />
   <br/><br/>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=malfurra&theme=radical&no-frame=false&no-bg=false&margin_w=10&margin_h=10&row=1&column=7" width="100%" alt="MCU Trophies" />
-  </a>
+  <table align="center" width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malfurra&theme=radical" width="100%" alt="Profile Details" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malfurra&theme=radical" width="100%" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -291,7 +298,7 @@
 
 <!-- 🐍 SECTION 5: VIBRANIUM CONTRIBUTION GRID 🐍 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+VIBRANIUM+GRID+%2F%2F+CONTRIBUTION+SNAKE+%E2%9C%A6+%E3%80%8F" alt="Snake Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+VIBRANIUM+GRID+%2F%2F+CONTRIBUTION+SNAKE+%E2%9C%A6+%E3%80%8F" alt="Snake Header" />
   <br/><br/>
 
   <picture>
@@ -311,7 +318,7 @@
 
 <!-- 🤝 SECTION 6: AVENGERS ASSEMBLE! (CONTRIBUTION PROTOCOL) 🤝 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+AVENGERS+ASSEMBLE!+%2F%2F+CONTRIBUTION+%E2%9C%A6+%E3%80%8F" alt="Contribution Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+AVENGERS+ASSEMBLE!+%2F%2F+CONTRIBUTION+%E2%9C%A6+%E3%80%8F" alt="Contribution Header" />
   
   <p align="center">
     Ingin bergabung dalam inisiatif Avengers? Ikuti protokol <b>S.H.I.E.L.D</b> berikut:
@@ -361,7 +368,7 @@
 
 <!-- 🎧 SECTION 7: STARK SOUND LAB // AUDIO LOUNGE 🎧 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+STARK+SOUND+LAB+%2F%2F+AUDIO+LOUNGE+%E2%9C%A6+%E3%80%8F" alt="Audio Vibes Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=E62429&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+STARK+SOUND+LAB+%2F%2F+AUDIO+LOUNGE+%E2%9C%A6+%E3%80%8F" alt="Audio Vibes Header" />
   <br/><br/>
 
   <p align="center">
@@ -395,7 +402,7 @@
 
 <!-- 🌐 SECTION 8: AVENGERS TOWER COMMS // CONNECT 🌐 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=650&height=50&lines=%E3%80%8E+%E2%9C%A6+AVENGERS+TOWER+%2F%2F+GET+IN+TOUCH+%E2%9C%A6+%E3%80%8F" alt="Connect Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=800&size=22&duration=2500&pause=1000&color=F0B232&center=true&vCenter=true&width=800&height=60&lines=%E3%80%8E+%E2%9C%A6+AVENGERS+TOWER+%2F%2F+GET+IN+TOUCH+%E2%9C%A6+%E3%80%8F" alt="Connect Header" />
   <br/><br/>
 
   <!-- GLOWING SOCIAL NETWORK MATRIX -->
