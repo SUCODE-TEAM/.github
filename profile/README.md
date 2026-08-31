@@ -3,7 +3,7 @@
 # 🛡️ MARVEL CODING UNIVERSE (MCU) 🛡️
 
 <!-- Epic Marvel Header -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOFucvWEDbo6kyS02_QDslmucqOzU_tRtasr77AXKjFxnLVbfQUtx-A8&s=10" width="100px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOFucvWEDbo6kyS02_QDslmucqOzU_tRtasr77AXKjFxnLVbfQUtx-A8&s=10" width="500px" />
 
 <br/>
 
